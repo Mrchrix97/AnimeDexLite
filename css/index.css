@@ -13,7 +13,7 @@ header {
 }
 
 footer {
-    background: #eb3349;
+    background: #57CA85;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
@@ -46,7 +46,7 @@ footer a {
 }
 
 #head-div {
-    background: linear-gradient(to right, #eb3349 40%, #f45c43);
+    background-image: linear-gradient(to right, #184E68 0%, #57CA85 100%);
     width: 100%;
     text-align: center;
     height: 86px;
@@ -273,7 +273,7 @@ h1 {
 
 h2 {
     font-family: "Montserrat", sans-serif;
-    color: #ed3832;
+    color: #57CA85;
     font-weight: 500;
     width: 100%;
     font-size: 20px;
